@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CutScene_Prologue.unity
+    guid: f0a56dbf9d710744baa0cef08355293d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Forest Day.unity
+    guid: d8fec6a4a3af6fa448c54a890a79fbb6
+  - enabled: 1
+    path: Assets/Scenes/House.unity
+    guid: f2c35ab8d9f89964c99d7db189b7edef
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Sun 1.unity
+    guid: 009c615bd32c19043bd0d28163296a52
+  - enabled: 1
+    path: Assets/Scenes/Moon 1.unity
+    guid: 0bd87a3d0845aed4aad54a8b66d66322
+  - enabled: 1
+    path: Assets/Scenes/Sun 2.unity
+    guid: 2e5e570e9c97cbe419937529745b451f
+  - enabled: 0
+    path: 
+    guid: d87e3494ddfa1814c8e21dde33a37bb1
+  - enabled: 1
+    path: Assets/Scenes/CutScene_8f.unity
+    guid: a291f0384467dae4992da3d530e6934b
+  - enabled: 1
+    path: Assets/Scenes/CutScene_8c.unity
+    guid: 33a1c4f76bcccf444ae19cbc23a97418
+  - enabled: 1
+    path: Assets/Scenes/Moon 2.unity
+    guid: 0f407022f64966242a105d3c3f043e7c
+  - enabled: 1
+    path: Assets/Scenes/Castle Inside.unity
+    guid: 59a9695863d31b1429554f8d5ca41844
+  - enabled: 1
+    path: Assets/Scenes/CutScene_8b.unity
+    guid: 7432d0cf45682ac4fa45c9ff45d814bf
+  - enabled: 1
+    path: Assets/Scenes/CutScene_8a.unity
+    guid: a1cea09602d116b4c8fe93cd7ced00a9
+  - enabled: 1
+    path: Assets/Scenes/CutScene_6b.unity
+    guid: 086452fa3fdd7a6419ff2a605c328ab4
+  - enabled: 1
+    path: Assets/Scenes/CutScene_6a.unity
+    guid: 7e4a838ea99b6e1478f3a4b7e1bd534d
+  - enabled: 1
+    path: Assets/Scenes/CutScene_4b.unity
+    guid: 27764e6a545a540438deca7a052dc679
+  - enabled: 1
+    path: Assets/Scenes/CutScene_4a.unity
+    guid: 2159898e11a82a142a8db427bd82d8e1
+  - enabled: 1
+    path: Assets/Scenes/CutScene_2d.unity
+    guid: b346c6b79f3fc944896a29035305ac41
+  - enabled: 1
+    path: Assets/Scenes/CutScene_2c.unity
+    guid: cc19e9df0fc4c884e9f5c64ae7a5b96c
+  - enabled: 1
+    path: Assets/Scenes/Stars.unity
+    guid: 48a7b2b679d1cfa47968835e0a341018
+  - enabled: 1
+    path: Assets/Scenes/Forest Night.unity
+    guid: 22384783d37404745be5ab2041e35a74
+  - enabled: 1
+    path: Assets/Scenes/CutScene_7.unity
+    guid: 99f243596d2465f4d82f8052a07b0c2d
+  - enabled: 1
+    path: Assets/Scenes/CutScene_5.unity
+    guid: 25338e4e7bf972e4ca7aac738dedeb60
+  - enabled: 1
+    path: Assets/Scenes/CutScene_8e.unity
+    guid: b12b9133d69f4be4b910dbef68d7c0b9
+  - enabled: 1
+    path: Assets/Scenes/CutScene_8d.unity
+    guid: 3301956b6a98a2049be273a9e49f5327
+  - enabled: 1
+    path: Assets/Scenes/CutScene_3.unity
+    guid: 5d7385ebfe8026f428bd9f3d6eb02008
+  - enabled: 1
+    path: Assets/Scenes/CutScene_2b.unity
+    guid: 7f5fb4f40367a8e41acc46493ca5ab62
+  - enabled: 1
+    path: Assets/Scenes/CutScene_2a.unity
+    guid: 15434c20aacbef4469640a694e8d48fa
+  - enabled: 1
+    path: Assets/Scenes/Castle Outside.unity
+    guid: 6ddad4e5c0470cc42bcf06c1d94df1eb
+  m_configObjects: {}
